@@ -80,9 +80,9 @@ require_once ("php/operation.php");
                     <tr>
                         <th>ID</th>
                         <th>Customer Name</th>
-						<th>Address</th>
-						<th>Phone Number</th>
-						<th>Product Name</th>
+					<th>Address</th>
+					<th>Phone Number</th>
+					<th>Product Name</th>
                         <th>Invoice Number</th>
                         <th>Totall Price</th>
 						<th>Paid Taka</th>
