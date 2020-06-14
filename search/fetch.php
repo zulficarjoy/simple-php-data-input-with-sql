@@ -55,6 +55,6 @@ if(mysqli_num_rows($result) > 0)
 }
 else
 {
-	echo 'Data Not Found';
+	echo 'Data Not Found, Try Again';
 }
 ?>
